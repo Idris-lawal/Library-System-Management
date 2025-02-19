@@ -7,6 +7,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. 
 
+![Library_project](https://github.com/Idris-lawal/Library-System-Management/blob/main/library.jpg)
 
 
 
